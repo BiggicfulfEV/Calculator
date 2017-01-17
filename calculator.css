@@ -14,7 +14,7 @@
 
 /* Display */
 .display {
-	background-color:#E080FF;
+	background-color:#88F5FF;
 	width: 220px;
 	position: relative;
 	left: 15px;
@@ -28,7 +28,7 @@
 	height: 30px;
 	width: 210px;
 	color: black;
-	background-color: #912FB0;
+	background-color: #6CAAB0;
 	font-size: 21px;
 	text-align: right;
 }
@@ -81,5 +81,7 @@
 }@charset "UTF-8";
 /* CSS Document */
 
-background-color: black;
+body{
+background-image: url(" ");
 
+}
